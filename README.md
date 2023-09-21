@@ -40,5 +40,3 @@ Follow these steps to get started with the project:
 - `update_script.sql`: Script for updating the data warehouse.
 - `undo_script.sql`: Undoing script (use in case of issues).
 
-## Support and Contact
-For questions or assistance, contact [Your Name] at [Your Email].
